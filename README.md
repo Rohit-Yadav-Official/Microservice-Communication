@@ -5,9 +5,7 @@ Since microservices are complex structure into independently developed and deplo
 
 Before we design our microservices communications, we should understand about communication styles, it is possible to classify them in two axes. The first step is to define communication protocol is synchronous or asynchronous.
 
-# Microservices Communication Types — Synchronous and Asynchronous Communication
 
-This document aims to provide an overview of the communication types in microservices, focusing on Synchronous and Asynchronous communication.
 
 # Microservices Communication Types — Synchronous and Asynchronous Communication
 
